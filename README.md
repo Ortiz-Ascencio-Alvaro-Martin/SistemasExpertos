@@ -1,6 +1,18 @@
 # SistemasExpertos
 Repositorio con fines educativos 
 
+## Dependencias opcionales
+
+- `numpy`
+- `scikit-learn`
+- `pandas` (opcional, solo para mostrar tablas de datos)
+
+Instálalas con:
+
+```bash
+pip install numpy scikit-learn pandas
+```
+
 ## Ejemplo de algoritmo de decisión (01_Algotirmo1.py)
 
 El archivo `01_Algotirmo1.py` implementa un sencillo algoritmo de "IA" para
@@ -23,8 +35,19 @@ source .venv/bin/activate
 /workspaces/SistemasExpertos/.venv/bin/python 01_Parcial/01_Practica/01_Algotirmo1.py
 ```
 
-Los demás ejemplos se ejecutan de forma análoga, cambiando el nombre del
-ejecutable.
+## Algoritmo de toma de agua (02_Algoritmo_toma_agua.py)
+
+Un ejemplo más avanzado que el anterior. **Algoritmo principal:** bosque
+aleatorio (`RandomForestClassifier` de scikit-learn) entrenado sobre un dataset
+sintético con cinco variables. Si `scikit-learn` (junto a `numpy`/`pandas`) no
+están disponibles, el programa usa un sistema de reglas/híbrido para tomar la
+decisión.
+
+Ejecutar:
+
+```bash
+python 01_Parcial/01_Practica/02_Algoritmo_toma_agua.py
+```
 
 ## Algoritmo con Dijkstra (03_Dijkstra.py)
 
@@ -54,31 +77,4 @@ elección.
 
 ```bash
 python 01_Parcial/01_Practica/03_Dijkstra.py
-```
-
-El resto de los ejemplos se ejecutan de forma similar.
-### Dependencias opcionales
-
-- `numpy`
-- `scikit-learn`
-- `pandas` (opcional, solo para mostrar tablas de datos)
-
-Ambas pueden instalarse con:
-
-```bash
-pip install numpy scikit-learn pandas
-```
-
-## Algoritmo de toma de agua (02_Algoritmo_toma_agua.py)
-
-Un ejemplo más avanzado que el anterior. **Algoritmo principal:** bosque
-aleatorio (`RandomForestClassifier` de scikit-learn) entrenado sobre un dataset
-sintético con cinco variables. Si `scikit-learn` (junto a `numpy`/`pandas`) no
-están disponibles, el programa usa un sistema de reglas/híbrido para tomar la
-decisión.
-
-Ejecutar:
-
-```bash
-python 01_Parcial/01_Practica/02_Algoritmo_toma_agua.py
 ```
