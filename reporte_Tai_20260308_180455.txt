@@ -1,0 +1,39 @@
+======================================================================
+REPORTE DE MASCOTA
+======================================================================
+
+Fecha de generación: 2026-03-08 18:04:55
+
+INFORMACIÓN GENERAL
+----------------------------------------------------------------------
+Nombre: Tai
+Tipo: Gato
+Raza: No especificada
+Edad: 2 años
+Peso: 4.0 kg
+Propietario: Angela Paola Lopez Macedo
+Fecha de registro: 2026-03-08 17:59:40
+
+INFORMACIÓN DE CUIDADOS
+----------------------------------------------------------------------
+Descripción: Animal independiente, cazador natural, requiere enriquecimiento ambiental
+Cuidados básicos: Rascadores, juguetes, espacios elevados, limpieza de arenero
+Alimentación: Alimento balanceado, agua fresca, evitar alimentos tóxicos
+Vacunaciones recomendadas: Rabia, FVRCP (panleucopenia, rinotraqueítis, calicivirus), antiparasitarios
+Esperanza de vida: 12-18 años
+
+HISTORIAL CLÍNICO
+----------------------------------------------------------------------
+Total de casos registrados: 1
+
+Caso #1
+Fecha: 2026-03-08 18:04:27
+Síntomas: linfonodos reactivos, vomito recurrente, abdomen inflamado con gas y guapo
+Tratamiento: Dimeticona, protectores gastricos y realizar un copro
+Medicamentos: xd
+Veterinario: Mi bonita
+Notas: Acudir a revision de una semana
+
+======================================================================
+FIN DEL REPORTE
+======================================================================
